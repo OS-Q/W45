@@ -1,11 +1,11 @@
-﻿# [UI-Q](https://github.com/OS-Q/UI-Q)
+﻿# [SHOW-Q](https://github.com/OS-Q/SHOW-Q)
 
 [![sites](OS-Q/qitas.png)](http://www.OS-Q.com)
 
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
 
-Q系统包括多种显示交互单元，这些呈现形式各有不同的组件，通过合理的搭配，完成交互功能
+[SHOW-Q](https://github.com/OS-Q/SHOW-Q)作为数据的最后展示，用于向用户提供最直观的表达。
 
-* [SSH](https://github.com/OS-Q/SSH)
+Q系统包括多种显示交互单元，这些呈现形式各有不同的组件，通过合理的搭配，完成系统的交互传达。
 
-### [OS-Q : Operation System for edge devices](http://www.OS-Q.com/UI-Q)
+### [OS-Q : Operation System for edge devices](http://www.OS-Q.com/SHOW-Q)
