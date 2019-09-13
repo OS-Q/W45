@@ -8,11 +8,5 @@
 
 [OS-Q](https://github.com/OS-Q)包括多种显示交互单元，这些呈现形式各有不同的组件，通过合理的搭配，完成系统的交互传达。
 
-### [组合平台](https://github.com/OS-Q/)
 
-* [EDGE-Q](https://github.com/OS-Q/EDGE-Q)
-* [DATA-Q](https://github.com/OS-Q/DATA-Q)
-* [FAAS-Q](https://github.com/OS-Q/FAAS-Q)
-* [DOCK-Q](https://github.com/OS-Q/DOCK-Q)
-
-### [OS-Q : Open Solutions](http://www.OS-Q.com/SHOW-Q)
+### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/SHOW-Q)
