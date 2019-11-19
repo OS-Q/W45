@@ -1,12 +1,15 @@
 ﻿# [SHOW-Q](https://github.com/OS-Q/SHOW-Q)
-[![sites](OS-Q/qitas.png)](http://www.OS-Q.com)
-#### 关于系统架构：[OS-Q](https://github.com/OS-Q)
+# [SHOW-Q](https://github.com/OS-Q/SHOW-Q)
 
-### [SHOW-Q描述](https://github.com/OS-Q/SHOW-Q/wiki) 
+[![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-[SHOW-Q](https://github.com/OS-Q/SHOW-Q)作为数据的最后展示，用于向用户提供最直观的表达。
+## [SHOW-Q简介](https://github.com/OS-Q/SHOW-Q/wiki)
 
-[OS-Q](https://github.com/OS-Q)包括多种显示交互单元，这些呈现形式各有不同的组件，通过合理的搭配，完成系统的交互传达。
+[SHOW-Q](https://github.com/OS-Q/SHOW-Q) 是[OS-Q](https://github.com/OS-Q/OS-Q)的信息传达，完成和用户交互
 
+### 呈现组件
 
-### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/SHOW-Q)
+* web UI ：H5/Nodejs
+* embed UI ：TouchGFX/emWin
+
+### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/SHOW)
