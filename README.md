@@ -1,14 +1,15 @@
-﻿# [SHOW-Q](https://github.com/OS-Q/SHOW-Q)
+﻿# [ISP升级终端](https://github.com/OS-Q/W45)
 
 [![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-## [SHOW-Q简介](https://github.com/OS-Q/SHOW-Q/wiki)
+### [workspace描述](https://github.com/OS-Q/W45/wiki)
 
-[SHOW-Q](https://github.com/OS-Q/SHOW-Q) 是[OS-Q](https://github.com/OS-Q/OS-Q)的信息传达，完成和用户交互
+[ISP升级终端](https://github.com/OS-Q/W45)
 
-### 呈现组件
+### [收录资源](https://github.com/OS-Q/)
 
-* web UI ：H5/Nodejs
-* embed UI ：TouchGFX/emWin
+* [文档](docs/)
+* [工程](project/)
 
-### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/SHOW)
+
+### [OS-Q = Open Solutions | Open Source | Operating System ](http://www.OS-Q.com/W45)
